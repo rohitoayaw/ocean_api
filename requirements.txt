@@ -1,0 +1,4 @@
+wordllama
+pandas
+uvicorn
+fastapi
